@@ -1,0 +1,27 @@
+= Websocket Client & Server
+
+Patrick Spisak
+
+== Was ist Websocket?
+* Netzwerkprotokoll
+* auf TCP basierend
+* eignen sich für Echtzeit-Webapplikationen
+
+== Was ist die Atlernative zu Websocket?
+* SSE
+* ist monodirektional
+* kann nur UTF-8 Data transportieren
+
+== Wie funktioniert Websocket?
+* Client stellt eine Anfrage
+* Server antwortet
+
+
+== Für was braucht man Websocket?
+* wenn schnelle Übertragungsgeschwindigkeiten erreicht werden müssen
+* Soziale Medien
+* Life-Chats, etc. ...
+
+== Was ist der Vorteil von Websocket?
+* WebSocket erlaubt schnelle Ladezeiten
+** Nachrichten werden ohne Umwege sofort angezeigt, wenn bereitgestellt
